@@ -1,5 +1,5 @@
-failure_summary.txt里面记录的是植物抠图 Failure Case 筛选报告
-per_image_metrics.csv里面记录的是各个图片在多个模型下的alpha指标等等
-还有一些含模型名称如ZIM、MAM、SDMatte的文件夹里面主要是记录了一些他们表现特别好/不好的样本
-key_cases和visualization文件夹里面主要是记录的一些输出结果的对比图等等
-representative_photos里面记录的是我自己找的一些含失败模式的新样本、输出alpha图及比较等等
+failure_summary.txt里面记录的是植物抠图 Failure Case 筛选报告  
+per_image_metrics.csv里面记录的是各个图片在多个模型下的alpha指标等等  
+还有一些含模型名称如ZIM、MAM、SDMatte的文件夹里面主要是记录了一些他们表现特别好/不好的样本  
+key_cases和visualization文件夹里面主要是记录的一些输出结果的对比图等等  
+representative_photos里面记录的是我自己找的一些含失败模式的新样本、输出alpha图及比较等等  
